@@ -1,2 +1,0 @@
-# FuseClient
-Minecraft Cheat Utility
